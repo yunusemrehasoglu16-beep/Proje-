@@ -1,3 +1,6 @@
+<img width="1917" height="911" alt="Ekran görüntüsü 2026-08-27 193757" src="https://github.com/user-attachments/assets/8b881e3c-30c0-437d-b860-72b04c4b98b5" />
+<img width="1917" height="907" alt="Ekran görüntüsü 2026-08-27 193742" src="https://github.com/user-attachments/assets/3a4640b7-893b-40c7-9c16-619eec64e2d4" />
+<img width="1917" height="903" alt="Ekran görüntüsü 2026-08-27 193727" src="https://github.com/user-attachments/assets/15e6a1d9-f35c-4ff7-a188-237e78300191" />
 # Ascent Agency | Digital Marketing & GA4 Analytics
 
 ## Project Overview
