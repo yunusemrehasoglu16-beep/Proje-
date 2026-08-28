@@ -1,8 +1,5 @@
 # 📊 HR Recruitment Analytics Dashboard
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![HR Analytics](https://img.shields.io/badge/HR_Analytics-Recruitment-blue?style=for-the-badge)
-
 Bu proje, İnsan Kaynakları departmanlarının işe alım süreçlerini uçtan uca analiz etmelerini, aday havuzunu optimize etmelerini ve veri odaklı stratejik kararlar almalarını sağlamak amacıyla geliştirilmiş dinamik bir **Power BI** dashboard çalışmasıdır.
 
 ---
@@ -38,3 +35,4 @@ Power BI şablon dosyası (`.pbix` / `.pbit`) aşağıdaki bileşenlerden oluşm
 │       └── RegisteredResources/ # Statik ikonlar ve logolar[cite: 3]
 └── [Content_Types].xml     # Proje metadata yapılandırmaları[cite: 3]<img width="1152" height="633" alt="Ekran görüntüsü 2026-08-27 150548" src="https://github.com/user-attachments/assets/e23096ef-dfaf-4d85-afda-d87826e8e684" />
 
+<img width="1152" height="633" alt="Ekran görüntüsü 2026-08-27 150548" src="https://github.com/user-attachments/assets/798a24dd-c18e-4324-8575-7c12cad2a3fb" />
