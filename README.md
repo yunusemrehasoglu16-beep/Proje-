@@ -8,16 +8,16 @@
 
 ## 📊 Projeler
 
-### 1. [HR Recruitment Analytics Dashboard](./İK-İşe%20Alım-Analitiği/)
+### 1. [HR Recruitment Analytics Dashboard](./HR-Recruitment-Analytics/)
 SQL ile veri hazırlama/temizleme, Power BI ile toplam başvuru, işe alım başarı oranı, ortalama işe alım süresi, kaynak performansı ve departman bazlı işe alım verimliliği analizi.
 
-### 2. [Novara Bank Performance Dashboard](./Novara-Bank-Gösterge%20Paneli/)
+### 2. [Novara Bank Performance Dashboard](./Novara-Bank-Dashboard/)
 Banka performansı için Bank Overview, Regional Analysis ve Branch Analysis olmak üzere 3 analiz alanından oluşan Power BI projesi.
 
-### 3. [Sales Performance Analytics Dashboard](./Satış%20Kontrol%20Paneli/)
+### 3. [Sales Performance Analytics Dashboard](./Sales-Dashboard/)
 Satış trendleri, ürün/kategori performansı, coğrafi/bölgesel satış analizi ve en iyi performans gösteren ürün/segmentlerin incelendiği dashboard.
 
-### 4. [Sales Target & Performance Dashboard](./Satış%20Hedef%20Analizi/)
+### 4. [Sales Target & Performance Dashboard](./Sales-Target-Analytics/)
 Star Schema veri modeli, DAX ile Target vs Actual karşılaştırması, dönemsel performans ve kâr marjı analizi, bölge/ürün/zaman bazlı drill-down.
 
 ### 5. [Ascent Agency – GA4 Web Analytics](./Ascent-Agency-GA4-Analytics/)
