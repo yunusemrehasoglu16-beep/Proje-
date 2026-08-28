@@ -23,6 +23,7 @@ Proje bünyesinde hedef ve gerçekleşen satış verileri modellenmiş, zaman ba
 
 ## 📂 Dosya Yapısı
 * `Sales-Target-Analytics.pbix`: Power BI çalışma ve rapor dosyası.
-<img width="1337" height="742" alt="Ekran görüntüsü 2026-08-26 020954" src="https://github.com/user-attachments/assets/f77249ea-ae6d-4e87-b384-dc548a1d8350" />
-<img width="1327" height="737" alt="Ekran görüntüsü 2026-08-26 020934" src="https://github.com/user-attachments/assets/0c56f974-2b05-42b3-9cd1-97123c7df89c" />
-<img width="1327" height="736" alt="Ekran görüntüsü 2026-08-26 020914" src="https://github.com/user-attachments/assets/a7daee4c-a6e1-4176-ad62-821486f51317" />
+<img width="1328" height="748" alt="Ekran görüntüsü 2026-08-26 021347" src="https://github.com/user-attachments/assets/155c6bbb-1e89-4a30-8933-ccf8934622b1" />
+<img width="1330" height="747" alt="Ekran görüntüsü 2026-08-26 021328" src="https://github.com/user-attachments/assets/cc13d8b4-6274-4b42-8f6b-911147100e5c" />
+<img width="1327" height="736" alt="Ekran görüntüsü 2026-08-26 020914" src="https://github.com/user-attachments/assets/c5a29fe7-d994-48d5-bbe5-67703b5744e8" />
+
