@@ -5,9 +5,8 @@ This portfolio case study analyzes the performance of a simulated digital market
 
 **Note:** This is an independent portfolio project using simulated data. It is not an official Decathlon campaign and is not affiliated with Decathlon.
 ## Dashboard Preview
-## Dashboard Preview
+<img width="1357" height="682" alt="Decathlon Marketing Campaign Dashboard" src="https://github.com/user-attachments/assets/2189fd3d-1f00-4da5-a67e-151919d6e9bc" />
 
-![Decathlon Marketing Campaign Dashboard](Decathlon%20Marketing%20Campaign%20Dashboard.png)
 ## Tools & Technologies
 - **SQL Server:** Data exploration, aggregation, and campaign performance analysis
 - **Microsoft Power BI:** Interactive dashboard development and visualization
