@@ -4,7 +4,10 @@
 This portfolio case study analyzes the performance of a simulated digital marketing campaign for Decathlon Türkiye. The project focuses on campaign performance measurement, channel comparison, creative analysis, conversion funnel tracking, and budget optimization.
 
 **Note:** This is an independent portfolio project using simulated data. It is not an official Decathlon campaign and is not affiliated with Decathlon.
+## Dashboard Preview
+## Dashboard Preview
 
+![Decathlon Marketing Campaign Dashboard](Decathlon%20Marketing%20Campaign%20Dashboard.png)
 ## Tools & Technologies
 - **SQL Server:** Data exploration, aggregation, and campaign performance analysis
 - **Microsoft Power BI:** Interactive dashboard development and visualization
