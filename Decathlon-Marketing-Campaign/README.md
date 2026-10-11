@@ -32,4 +32,4 @@ This portfolio case study analyzes the performance of a simulated digital market
 All campaign data and performance figures in this project are simulated for educational and portfolio purposes. The findings should not be interpreted as actual Decathlon business results.
 
 ## Author
-Business Administration Graduate | Digital Marketing & Marketing Analytics
+Business Administration Graduate | Digital Marketing & Marketing Analytics | Created By Yunus Emre Hasoğlu
